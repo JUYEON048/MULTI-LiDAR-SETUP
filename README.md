@@ -13,6 +13,6 @@
 
 </br>
 
-after set LiDAR's ip, launch this commeaed </br>
+after set LiDAR's IP & Port, launch this commeaed </br>
 ` $ source devel/setup.bash ` </br>
 ` $ roslaunch velodyne_pointcloud one_for_all.launch `
