@@ -14,5 +14,4 @@
 </br>
 
 after set LiDAR's ip, launch this commeaed </br>
-'
-$ roslaunch velodyne_pointcloud one_for_all.launch '
+` $ roslaunch velodyne_pointcloud one_for_all.launch `
