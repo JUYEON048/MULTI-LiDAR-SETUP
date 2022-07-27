@@ -8,7 +8,7 @@
 </br>
 
 - velodyne.zip is ros package
-- this file extract to src folder in your ros workspace
+- extract this file to src folder in your ros workspace
 
 
 </br>
